@@ -32,7 +32,7 @@ require (
 	github.com/gobuffalo/here v0.6.2 // indirect
 	github.com/gofrs/uuid v3.4.0+incompatible
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.2
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
@@ -86,7 +86,7 @@ require (
 	github.com/peterbourgon/ff/v3 v3.0.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.9.0
-	github.com/pseudomuto/protoc-gen-doc v1.3.2
+	github.com/pseudomuto/protoc-gen-doc v1.5.1
 	github.com/rivo/tview v0.0.0-20200712113419-c65badfc3d92
 	github.com/shibukawa/configdir v0.0.0-20170330084843-e180dbdc8da0
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
@@ -94,7 +94,6 @@ require (
 	github.com/tailscale/depaware v0.0.0-20201214215404-77d1e9757027
 	github.com/tj/assert v0.0.3
 	github.com/zcalusic/sysinfo v0.0.0-20200820110305-ef1bb2697bc2
-	go.opencensus.io v0.22.5 // indirect
 	go.opentelemetry.io/otel v0.8.0
 	go.opentelemetry.io/otel/exporters/trace/jaeger v0.8.0
 	go.uber.org/goleak v1.1.10
@@ -102,12 +101,10 @@ require (
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20201112155050-0c6587e931a9
 	golang.org/x/mobile v0.0.0-20200801112145-973feb4309de
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
-	golang.org/x/text v0.3.4 // indirect
-	golang.org/x/tools v0.0.0-20201211185031-d93e913c1a58
+	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
+	golang.org/x/tools v0.1.5
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	google.golang.org/genproto v0.0.0-20201022181438-0ff5f38871d5 // indirect
-	google.golang.org/grpc v1.34.0
+	google.golang.org/grpc v1.40.0
 	google.golang.org/grpc/examples v0.0.0-20200922230038-4e932bbcb079
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1
